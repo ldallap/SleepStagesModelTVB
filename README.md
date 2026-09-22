@@ -38,7 +38,7 @@ The notebook expects a TVB connectivity file named `Connectivity.zip` containing
 
 ## Running the simulations
 
-Open `FMatias_TVB_Human.ipynb`, set the path to `Connectivity.zip`, choose the adaptation values in `values`, and run all cells.
+Open `TVB_Human_SleepStages.ipynb`, set the path to `Connectivity.zip`, choose the adaptation values in `values`, and run all cells.
 
 The publication analyzes the transition between brain states for adaptation values in the range **40–95 pA**.
 
